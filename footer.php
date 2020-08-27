@@ -1,7 +1,7 @@
 
-<footer id="footer">
-    <p class="text-center">Copright &copy; uxfrontier <?php echo date("Y"); ?></p>
-</footer>
+<!-- <footer id="footer">
+    <p class="text-center">All Rights Reserved - <?php echo date("Y"); ?></p>
+</footer> -->
  <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
     <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>

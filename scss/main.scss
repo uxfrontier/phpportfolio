@@ -1,42 +1,83 @@
+.navbar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+
+  .navbar-brand {
+    font-size: 2rem;
+  }
+}
+
 #intro {
   height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
 
   h1 {
-    font-size: 4rem;
-    font-weight: bold;
+    font-size: 3.6rem;
+    margin: 4rem 0;
+    padding-top: 3rem;
+  }
+  .lead {
+    font-size: 1.8rem;
   }
 
-  p {
-    font-size: 1.5rem;
+  #intro-social {
+    width: 100%;
+    padding-top: 50px;
+    li {
+      padding: 15px;
+      list-style: none;
+      font-size: 1.3rem;
+
+      a {
+        color: darken(lightgrey, 20);
+        text-decoration: none;
+      }
+    }
   }
 }
 
 #about-me {
-  h1 {
-    margin-top: 8rem;
-    font-size: 4rem;
-    font-weight: 600;
+  margin-bottom: 5rem;
+
+  #about-me-h1 {
+    padding-top: 7rem;
   }
 
-  #lead {
-    padding-top: 180px;
-  }
   #lead-p {
     font-size: 1.5rem;
   }
 
-  #about-col-1 {
-    padding: 30px;
-  }
+  .row {
+    //height: 100vh;
 
-  #about-col-2 {
-    #sphere {
-      width: 500px;
-      height: 500px;
+    #about-col-1 {
+      padding: 2rem;
+    }
+
+    #about-col-2 {
+      #sphere {
+        margin-top: 40px;
+        width: 450px;
+        height: 450px;
+      }
     }
   }
 }
+
+#progress {
+  height: 100vh;
+  padding-top: 5rem;
+
+  h1 {
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+  }
+}
+
+/* #footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+} */

@@ -7,6 +7,7 @@
 
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
+    <script src="https://use.fontawesome.com/6d4e00c2d7.js"></script>
     <link rel="stylesheet" href="css/main.css" >
     <title>Hello, world!</title>
   </head>
@@ -24,13 +25,16 @@
             <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
         </li>
         <li class="nav-item">
-            <a class="nav-link" href="#">About Me</a>
-        </li>
-        <li class="nav-item">
-            <a class="nav-link" href="#">Portfolio</a>
+            <a class="nav-link" href="#about-me">About Me</a>
         </li>
         <li class="nav-item">
             <a class="nav-link" href="#">Timeline</a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link" href="#">Certification</a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link" href="#">Portfolio</a>
         </li>
         <li class="nav-item">
             <a class="nav-link" href="#">Contact</a>
