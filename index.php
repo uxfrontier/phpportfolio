@@ -1,8 +1,8 @@
 <?php 
-include 'variables.php';
-include 'navbar.php';
-include 'landing-page.php';
-include 'footer.php';
+include 'includes/variables.php';
+include 'includes/navbar.php';
+include 'includes/landing-page.php';
+include 'includes/footer.php';
 ?>
 
 
