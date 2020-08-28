@@ -59,7 +59,7 @@
   </div>
   <label for="html">GIT</label>
   <div class="progress mb-4">
-    <div class="progress-bar bg-dark" role="progressbar" style="width: 10%; color: red;" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
+    <div class="progress-bar bg-dark" role="progressbar" style="width: 10%;" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
   </div>
 </div>
 
@@ -67,24 +67,24 @@
   <h1 class="text-center">Programming languages</h1>
   <p class="text-center text-secondary">Here is 4 of my favourite programming languages</p>
   <div class="row my-5">
-    <div class="col-lg-3 col-md-12 col-sm-12 col-xs-12">
-      <div class="col-sass text-center my-5">
-        <h2><span>1.</span> SASS</h2>
+    <div class="col-lg-3 col-md-12 col-sm-12 col-xs-12 nums">
+      <div class="col-sass  my-5">
+        <h4><span class="mr-3" style="padding:17px; background-color:grey; color:#fff" id="sass">1.</span> SASS</h2>
       </div>
     </div>
-    <div class="col-lg-3 col-md-12 col-sm-12 col-xs-12">
-      <div class="col-js text-center my-5 ">
-        <h2><span>2.</span> JS</h2>
+    <div class="col-lg-3 col-md-12 col-sm-12 col-xs-12 nums">
+      <div class="col-js my-5 ">
+        <h4><span class="mr-3" style="padding:15px; background-color:grey; color:#fff">2.</span> JS</h2>
       </div>
     </div>
-    <div class="col-lg-3 col-md-12 col-sm-12 col-xs-12">
-      <div class="col-sass text-center my-5">
-        <h2><span>2.</span> JS</h2>
+    <div class="col-lg-3 col-md-12 col-sm-12 col-xs-12 nums">
+      <div class="col-php my-5">
+        <h4><span class="mr-3" style="padding:15px; background-color:grey; color:#fff">2.</span> PHP</h2>
       </div>
     </div>
-    <div class="col-lg-3 col-md-12 col-sm-12 col-xs-12">
-      <div class="col-python text-center my-5">
-        <h2><span>4.</span> PYTHON</h2>
+    <div class="col-lg-3 col-md-12 col-sm-12 col-xs-12 nums">
+      <div class="col-python my-5">
+        <h4><span class="mr-3" style="padding:15px; background-color:grey; color:#fff">4.</span> PYTHON</h2>
       </div>
     </div>
   </div>
