@@ -17,7 +17,7 @@
 </div>
 
 <div class="container-fluid" id="about-me">
-    <h1 class="text-center mt-4" id="about-me-h1"> A little about me ...</h1>
+    <h1 class="text-center mt-4" id="about-me-h1"> A little about this project ...</h1>
     <div class="row">
         
     <div class="col-sm-12 col-md-6 text-center" id="about-col-1">
@@ -37,27 +37,27 @@
 <div class="container" id="progress">
 
   <h1 class="text-center">My progress so far</h1>
-  <label for="html">HTML</label>
+  <h4>HTML</h4>
   <div class="progress mb-4">
     <div class="progress-bar bg-dark" role="progressbar" style="width:70%" aria-valuenow="0" aria-valuemin="0" aria-valuemax="100"></div>
   </div>
-  <label for="html">CSS</label>
+  <h4>CSS</h4>
   <div class="progress mb-4">
     <div class="progress-bar bg-dark" role="progressbar" style="width: 40%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
   </div>
-  <label for="html">JS</label>
+  <h4>JS</h4>
   <div class="progress mb-4">
     <div class="progress-bar bg-dark" role="progressbar" style="width: 2%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
   </div>
-  <label for="html">REACT</label>
+  <h4>REACT</h4>
   <div class="progress mb-4">
     <div class="progress-bar bg-dark" role="progressbar" style="width: 1%" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100"></div>
   </div>
-  <label for="html">PHP</label>
+  <h4>PHP</h4>
   <div class="progress mb-4">
     <div class="progress-bar bg-dark" role="progressbar" style="width: 10%" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
   </div>
-  <label for="html">GIT</label>
+  <h4>GIT</h4>
   <div class="progress mb-4">
     <div class="progress-bar bg-dark" role="progressbar" style="width: 10%;" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
   </div>
