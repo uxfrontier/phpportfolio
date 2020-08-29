@@ -1,22 +1,10 @@
 #intro {
   height: 100vh;
 
-  h1 {
-    font-size: 3.6rem;
-    margin: 4rem 0;
-    padding-top: 3rem;
-  }
-  .lead {
-    font-size: 1.8rem;
-  }
-
   #intro-social {
-    width: 100%;
-    padding-top: 50px;
     li {
       padding: 15px;
       list-style: none;
-      font-size: 1.3rem;
 
       a {
         color: darken(lightgrey, 20);
@@ -27,15 +15,10 @@
 }
 
 #about-me {
-  z-index: 0;
   margin-bottom: 5rem;
 
   #about-me-h1 {
     padding-top: 7rem;
-  }
-
-  #lead-p {
-    font-size: 1.5rem;
   }
 
   .row {
@@ -50,7 +33,6 @@
         margin-top: 40px;
         width: 450px;
         height: 450px;
-        z-index: -100;
       }
     }
   }
@@ -65,12 +47,3 @@
     padding-bottom: 3rem;
   }
 }
-#favourites {
-  z-index: -10;
-}
-/* #footer {
-  position: fixed;
-  left: 0;
-  bottom: 0;
-  width: 100%;
-} */

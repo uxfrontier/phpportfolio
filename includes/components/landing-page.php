@@ -1,11 +1,11 @@
 
 <div class="jumbotron text-center d-flex flex-column justify-content-center" id="intro">
-  <h1>Hello, world! </h1>
-  <p class="lead">I am Adam, and this is the beggining of my journey into <br><strong>Web Development</strong>.
+  <h1 class="display-3 m-5">Hello, world! </h1>
+  <p class="h2">I am Adam, and this is the beggining of my journey into <br><strong>Web Development</strong>.
  
   </p>
   <hr class="my-4">
-  <a class="btn btn-secondary w-25 ml-auto mr-auto" href="#about-me-h1" role="button">About Me</a>
+  <button class="btn btn-outline-dark w-25 ml-auto mr-auto " role="button"><a href="about.php"class="text-dark">About Me</a></button>
   <p class="mt-4 text-secondary text-center"><small>This project was started on the <?php echo date("d-m-y") . " " . "at 5.58pm"; ?></small></p>
   <ul class="d-flex justify-content-center" id="intro-social">
     <li class="list-item active"><a href="https://github.com/uxfrontier" target="_blank"><i class="fa fa-github"></i></a></li>
@@ -13,7 +13,8 @@
     <li class="list-item"><a href="https://www.freecodecamp.org" target="_blank"><i class="fa fa-free-code-camp"></i></a></li>
     <li class="list-item"><a href="https://www.allthecode.org" target="_blank"><i class="fa fa-code"></i></a></li>
     <li class="list-item"><a href="https://www.codetube.org" target="_blank"><i class="fa fa-tv"></i></a></li>
-</ul>
+  </ul>
+  <a href="#about-me"><i class="fa fa-arrow-down text-secondary"></i></a>
 </div>
 
 <div class="container-fluid" id="about-me">
@@ -26,7 +27,7 @@
         gain employment as a developer. This portfolio is the start of my learning progress. The above date is the date i have started to document 
         my learning.
         </p>
-        <p class="read-more pt-3"> <a href="#progress">Read More</a></p>
+       <button class="btn btn-outline-dark btn-block">Read More</button>
     </div>
 
     <div class="col-sm-12 col-md-6 text-center" id="about-col-2">
@@ -88,4 +89,7 @@
       </div>
     </div>
   </div>
+</div>
+<div class="container text-center">
+  <button class="btn btn-outline-dark"><a href="timeline.php" style="text-decoration:none;" class="text-dark">Daily Progress Update</a></button>
 </div>
