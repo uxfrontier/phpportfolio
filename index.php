@@ -1,5 +1,5 @@
 <?php 
-include 'includes/components/header.php';
+include 'includes/header.php';
 include 'includes/navbar.php';
 include 'includes/components/landing-page.php';
 ?>
