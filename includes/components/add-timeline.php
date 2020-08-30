@@ -1,11 +1,11 @@
 
-<div class="container-fluid mt-5 mb-5 p-1 bg-dark">
-    <h4 class="text-center text-light m-5">Take a look ...</h4>
-    <div class="row m-2 pb-5">
-        <button type="button" class="w-25 btn"><a class="text-light h3" href="timeline-html.php">CSS</a></button>
-        <button type="button" class="w-25 btn"><a class="text-light h3" href="timeline-js.php">JS</a></button>
-        <button type="button" class="w-25 btn"><a class="text-light h3" href="timeline-php.php">PHP</a></button>
-        <button type="button" class="w-25 btn"><a class="text-light h3" href="timeline-git.php">GIT</a></button>
+<div class="container-fluid mt-5 mb-5 p-1">
+    <h4 class="text-center m-5">Take a look ...</h4>
+    <div class="row m-2 p-3 border-top border-bottom">
+        <button type="button" class="w-25 btn "><a class="text-dark" href="timeline-html.php">CSS</a></button>
+        <button type="button" class="w-25 btn "><a class="text-dark" href="timeline-js.php">JS</a></button>
+        <button type="button" class="w-25 btn "><a class="text-dark" href="timeline-php.php">PHP</a></button>
+        <button type="button" class="w-25 btn "><a class="text-dark" href="timeline-git.php">GIT</a></button>
     </div>
 </div>
 <!--<section id="timeline"class="m-5">

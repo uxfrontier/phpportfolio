@@ -18,16 +18,16 @@
 </div>
 
 <div class="container-fluid" id="about-me">
-    <h1 class="text-center mt-4" id="about-me-h1"> A little about this project ...</h1>
+    <h1 class="text-center p-2 mt-5" id="about-me-h1"> A little about this project</h1>
     <div class="row">
         
     <div class="col-sm-12 col-md-6 text-center" id="about-col-1">
-        <p id="lead-p" class="pt-5 mt-4 text-justify d-flex flex-column justify-content-center text-secondary">I am a 34 year old aspiring web developer based in Leicestershire, UK.
+        <p class=" h3 pt-5 mt-4 text-justify d-flex flex-column justify-content-center text-secondary">I am a 34 year old aspiring web developer based in Leicestershire, UK.
         I enjoy learning about all the latest web technologies and trends. My aim by the end of next year is to 
         gain employment as a developer. This portfolio is the start of my learning progress. The above date is the date i have started to document 
         my learning.
         </p>
-       <button class="btn btn-outline-dark btn-block">Read More</button>
+       <button class="btn btn-outline-dark btn-block my-3"><a href="#progress" class="text-dark">Read More</a></button>
     </div>
 
     <div class="col-sm-12 col-md-6 text-center" id="about-col-2">
